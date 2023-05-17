@@ -26,7 +26,7 @@ A figurinha é salva em um diretório interno e, por fim, o título da imagem co
 
 ```
 
-1 - Clone este repositório em sua máquina: xxxxxxxxxxxxxxxxxxx
+1 - Clone este repositório em sua máquina
 2 - Abra o projeto em sua IDE de preferência
 3 - Execute o arquivo principal do projeto
 4 - Escolha a API que deseja consumir
